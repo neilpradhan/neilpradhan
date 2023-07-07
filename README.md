@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neil Pradhan</h1>
+
+
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 <h3 align="center">Machine learning Engineer</h3>
 
 - 🔭 I’m currently working on [Credit Default Analysis](https://github.com/neilpradhan/credit_default_analysis)
