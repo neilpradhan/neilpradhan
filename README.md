@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Neil Pradhan</h1>
-
-
-<h3 align="center">Machine learning Engineer</h3>
-
-<img align="center" src="'IMG_1436.jpg">
 
 ![ScreenShot](./IMG_1436.jpg)
+
+<h1 align="center">Hi 👋, I'm Neil Pradhan</h1>
+<h3 align="center">Machine learning Engineer</h3>
+
+
+
 
 - 🔭 I’m currently working on [Credit Default Analysis](https://github.com/neilpradhan/credit_default_analysis)
 
