@@ -3,7 +3,7 @@
 
 <h3 align="center">Machine learning Engineer</h3>
 
-<img align="center" src="'./IMG_1436.jpg">
+<img align="center" src="'IMG_1436.jpg">
 
 - 🔭 I’m currently working on [Credit Default Analysis](https://github.com/neilpradhan/credit_default_analysis)
 
