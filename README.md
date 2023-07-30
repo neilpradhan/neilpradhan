@@ -5,6 +5,8 @@
 
 <img align="center" src="'IMG_1436.jpg">
 
+![ScreenShot](./IMG_1436.jpg)
+
 - 🔭 I’m currently working on [Credit Default Analysis](https://github.com/neilpradhan/credit_default_analysis)
 
 - 🌱 I’m currently learning **Data Engineering, End to End Machine learning lifecycle from POC to Production**
