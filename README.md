@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on [Credit Default Analysis](https://github.com/neilpradhan/credit_default_analysis)
+- 🔭 I’m currently working on [Credit Score Calculator](https://github.com/neilpradhan/Credit_Score_Calculator)
 
 - 🌱 I’m currently learning **Data Engineering, End to End Machine learning lifecycle from POC to Production**
 
